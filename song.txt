@@ -1,4 +1,5 @@
 I believe I can fly
+<<<<<<< HEAD
 I believe I can touch the Sky
 
 I believe I can fly
@@ -6,3 +7,6 @@ I believe I can fly
 new song
 new song
 new song
+=======
+I believe I can touch the Sky
+>>>>>>> parent of 3339ddc... new line
